@@ -1,16 +1,16 @@
 #Config
-#Sun Sep 27 22:08:58 AMT 2020
+#Tue Feb 21 18:47:55 BRT 2023
 cfg.tipodefault=0
 cfg.apagartextoaoeditar=true
 cfg.location.salvar=true
 cfg.mostrarids=false
 cfg.ancorador=true
-cfg.recentes=
+cfg.recentes=C\:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\esquema revendas (DER) Agripoli.brM3;C\:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\L\u00F3gico_1.brM3
 cfg.autosalvarintervalo=5
 cfg.mostrartooltips=true
-cfg.mostrardimensoesaomover=true
+cfg.mostrardimensoesaomover=false
 cfg.mostrargrade=true
 cfg.propaguedeletetolines=true
-cfg.location.x=342
-cfg.location.y=174
+cfg.location.x=-8
+cfg.location.y=32
 cfg.gradelargura=23
